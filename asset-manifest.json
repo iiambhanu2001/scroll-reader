@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/scroll-reader/static/css/main.83593ec6.css",
+    "main.js": "/scroll-reader/static/js/main.98100bea.js",
+    "index.html": "/scroll-reader/index.html",
+    "main.83593ec6.css.map": "/scroll-reader/static/css/main.83593ec6.css.map",
+    "main.98100bea.js.map": "/scroll-reader/static/js/main.98100bea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83593ec6.css",
+    "static/js/main.98100bea.js"
+  ]
+}
